@@ -1,5 +1,5 @@
 Round-1_SLOPE-2 code is associated to find  a feasible solution of the underdetermind linear system equations with bounded variables, that is,
-min 1z
+find z
 s.t. Sz=b
 where z=[x w].     
 Please set your file name, your sheet and your data range for matrix S on lines 7-9.
